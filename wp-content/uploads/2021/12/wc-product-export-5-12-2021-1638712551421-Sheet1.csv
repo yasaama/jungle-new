@@ -1,0 +1,11 @@
+Type,SKU,Name,Published,Is featured?,Visibility in catalogue,Description,In stock?,Stock,Allow customer reviews?,Regular price,Parent,Attribute 1 name,Attribute 1 value(s),Attribute 1 visible,Attribute 1 global
+variable,chandan-gold ,Chandan Gold ,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,chandan-gold-bottle,Chandan Gold - 2.5g Bottle,1,0,visible,,1,10,0,53,chandan-gold ,Size,2.5g Bottle,,1
+variable,sweet-jasmine  ,Sweet Jasmine  ,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,sweet-jasmine-bottle,Sweet Jasmine - 2.5g Bottle,1,0,visible,,1,10,0,40,sweet-jasmine  ,Size,2.5g Bottle,,1
+variable,sandal-gulab ,Sandal Gulab,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,sandal-gulab-bottle,Sandal Gulab - 2.5g Bottle,1,0,visible,,1,10,0,45,sandal-gulab,Size,2.5g Bottle,,1
+variable,heritage-shamama,Heritage Shamama,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,heritage-shamama-bottle,Heritage Shamama - 2.5g Bottle,1,0,visible,,1,10,0,55,heritage-shamama,Size,2.5g Bottle,,1
+variable,attar-sample-set,Attar Sample Set,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,attar-sample-set-bottle,Attar Sample Set - 2.5g Bottle,1,0,visible,,1,13,0,22,attar-sample-set,Size,2.5g Bottle,,1

@@ -1,0 +1,51 @@
+Type,SKU,Name,Published,Is featured?,Visibility in catalogue,Description,In stock?,Stock,Allow customer reviews?,Regular price,Parent,Attribute 1 name,Attribute 1 value(s),Attribute 1 visible,Attribute 1 global
+variable,3k-sweet,3K Sweet,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,3k-sweet-sample,3K Sweet - 0.2g Sample,1,0,visible,,1,9,0,19.5,3k-sweet,Size,0.2g Sample,,1
+variation,3k-sweet-bottle,3K Sweet - 2.5g Bottle,1,0,visible,,1,22,0,160,3k-sweet,Size,2.5g Bottle,,1
+variable,emir,Emir,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,emir-sample,Emir - 0.2g Sample,1,0,visible,,1,9,0,21,emir,Size,0.2g Sample,,1
+variation,emir-bottle,Emir - 2.5g Bottle,1,0,visible,,1,14,0,170,emir,Size,2.5g Bottle,,1
+variable,hind-kalakasi,Hind Kalakasi,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,hind-kalakasi-sample,Hind Kalakasi - 0.2g Sample,1,0,visible,,1,14,0,21.7,hind-kalakasi,Size,0.2g Sample,,1
+variation,hind-kalakasi-bottle,Hind Kalakasi - 2.5g Bottle,1,0,visible,,1,7,0,169,hind-kalakasi,Size,2.5g Bottle,,1
+variable,tama,Tama,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,tama-sample,Tama - 0.2g Sample,1,0,visible,,1,17,0,13.5,tama,Size,0.2g Sample,,1
+variation,tama-bottle,Tama - 2.5g Bottle,1,0,visible,,1,15,0,85,tama,Size,2.5g Bottle,,1
+variable,kamfa,Kamfa ,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,kamfa-sample,Kamfa - 0.2g Sample,1,0,visible,,1,13,0,17.9,kamfa,Size,0.2g Sample,,1
+variation,kamfa-bottle,Kamfa - 2.5g Bottle,1,0,visible,,1,7,0,150,kamfa,Size,2.5g Bottle,,1
+variable,zesty-lao,Zesty Lao,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,zesty-lao-sample,Zesty Lao - 0.2g Sample,1,0,visible,,1,12,0,18,zesty-lao,Size,0.2g Sample,,1
+variation,zesty-lao-bottle,Zesty Lao - 2.5g Bottle,1,0,visible,,1,8,0,155,zesty-lao,Size,2.5g Bottle,,1
+variable,burmese,Burmese,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,burmese-sample,Burmese - 0.2g Sample,1,0,visible,,1,15,0,15.8,burmese,Size,0.2g Sample,,1
+variation,burmese-bottle,Burmese - 2.5g Bottle,1,0,visible,,1,7,0,125,burmese,Size,2.5g Bottle,,1
+variable,nha-vua,Nha'Vua,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,nha-vua-sample,Nha'Vua - 0.2g Sample,1,0,visible,,1,13,0,27,nha-vua,Size,0.2g Sample,,1
+variation,nha-vua-bottle,Nha'Vua - 2.5g Bottle,1,0,visible,,1,10,0,195,nha-vua,Size,2.5g Bottle,,1
+variable,tarakan,Tarakan,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,tarakan-sample,Tarakan - 0.2g Sample,1,0,visible,,1,10,0,21,tarakan,Size,0.2g Sample,,1
+variation,tarakan-bottle,Tarakan - 2.5g Bottle,1,0,visible,,1,7,0,159,tarakan,Size,2.5g Bottle,,1
+variable,veteran,Veteran,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,veteran-sample,Veteran - 0.2g Sample,1,0,visible,,1,7,0,15.9,veteran,Size,0.2g Sample,,1
+variation,veteran-bottle,Veteran - 2.5g Bottle,1,0,visible,,1,8,0,139,veteran,Size,2.5g Bottle,,1
+variable,eastwood,Eastwood,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,eastwood-sample,Eastwood - 0.2g Sample,1,0,visible,,1,6,0,16.7,eastwood,Size,0.2g Sample,,1
+variation,eastwood-bottle,Eastwood - 2.5g Bottle,1,0,visible,,1,12,0,145,eastwood,Size,2.5g Bottle,,1
+variable,oud-cam ,Oud Cam,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,oud-cam-sample,Oud Cam - 0.2g Sample,1,0,visible,,1,2,0,18.7,oud-cam ,Size,0.2g Sample,,1
+variation,oud-cam-bottle,Oud Cam - 2.5g Bottle,1,0,visible,,1,4,0,149,oud-cam ,Size,2.5g Bottle,,1
+variable,meroke,Meroke,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,meroke-bottle,Meroke - 2.5g Bottle,1,0,visible,,1,4,0,165,meroke,Size,2.5g Bottle,,1
+variable,green-suma  ,Green Suma  ,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,green-suma-sample,Green Suma - 0.2g Sample,1,0,visible,,1,8,0,21.9,green-suma  ,Size,0.2g Sample,,1
+variation,green-suma-bottle,Green Suma - 2.5g Bottle,1,0,visible,,1,7,0,160,green-suma  ,Size,2.5g Bottle,,1
+variable,hind-al-oud,Hind al Oud,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,hind-al-oud-sample,Hind al Oud - 0.2g Sample,1,0,visible,,1,10,0,23.9,hind-al-oud,Size,0.2g Sample,,1
+variation,hind-al-oud-bottle,Hind al Oud - 2.5g Bottle,1,0,visible,,1,18,0,179,hind-al-oud,Size,2.5g Bottle,,1
+variable,mughal-supreme,Mughal Supreme,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,mughal-supreme-sample,Mughal Supreme - 0.2g Sample,1,0,visible,,1,10,0,28.5,mughal-supreme,Size,0.2g Sample,,1
+variation,mughal-supreme-bottle,Mughal Supreme - 2.5g Bottle,1,0,visible,,1,17,0,215,mughal-supreme,Size,2.5g Bottle,,1
+variable,maharajah,Maharajah,1,0,visible,,1,,1,,,Size,"0.2g Sample, 2.5g Bottle",0,1
+variation,maharajah-sample,Maharajah - 0.2g Sample,1,0,visible,,1,10,0,17,maharajah,Size,0.2g Sample,,1
+variation,maharajah-bottle,Maharajah - 2.5g Bottle,1,0,visible,,1,8,0,145,maharajah,Size,2.5g Bottle,,1
